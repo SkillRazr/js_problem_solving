@@ -1,2 +1,2 @@
-# js_problem_solving
+# Problem Solving Using JavaScript
 JavaScript problem solving excercises and solutions
